@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anish</h1>
 <h3 align="center">Pursuing B.E. in Information Technology</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anishlohiya&label=Profile%20views&color=0e75b6&style=flat" alt="anishlohiya" /> </p>
+
 - 🌱 I’m currently learning **ReactJs**
 
 - 💬 Ask me about **Python**
@@ -24,4 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishlohiya&show_icons=true&locale=en" alt="anishlohiya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishlohiya&" alt="anishlohiya" /></p>
+
 
