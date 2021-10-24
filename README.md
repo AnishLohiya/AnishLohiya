@@ -37,7 +37,7 @@
       </tr>
   </table>
 
-[![Anish's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnishLohiya&theme=dracula)](https://github.com/AnishLohiya/github-readme-activity-graph)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnishLohiya&&theme=dracula)
 
 
 
