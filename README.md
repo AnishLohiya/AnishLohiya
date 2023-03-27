@@ -1,8 +1,6 @@
 <h1 align="center">Hi I'm Anish </h1>
 <h3 align="center">Pursuing B.E. in Information Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anishlohiya&label=Profile%20views&color=0e75b6&style=flat" alt="anishlohiya" /> </p>
-
 - 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **MERN Stack**
