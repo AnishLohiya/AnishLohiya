@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Anish </h1>
-<h3 align="center">Pursuing B.E. in Information Technology</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **DevOps**
 
